@@ -2,7 +2,7 @@
 
 ## What this is
 
-I took every penalty from World Cup shootout history (305 shots, minus a few with missing data) and looked at where people actually shoot, whether they scored, and — the real question — whether any of it holds up statistically once you account for how small some of these samples are.
+I took every penalty from World Cup shootout history (305 shots, minus a few with missing data) and looked at where people actually shoot, whether they scored, and whether any of it holds up statistically once you account for how small some of these samples are.
 
 ## The finding that matters
 
